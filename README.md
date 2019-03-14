@@ -5,7 +5,7 @@
     <h1><span>My School Schedule</span></h1>
     <table>
       <tr>
-        <th>DAY</th>
+        <th>Milan</th>
         <th>Mon</th>
         <th>Tue</th>
         <th>Wen</th>
