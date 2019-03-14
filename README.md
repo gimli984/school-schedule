@@ -13,9 +13,9 @@
         <th>Fri</th>
       </tr>
       <tr>
-        <td>8:00</td>
+        <td>8:00-8:45</td>
         <td class="selected">Learn</td>
-        <td class="selected">Do something</td>
+        <td></td>
         <td></td>
         <td></td>
         <td></td>
