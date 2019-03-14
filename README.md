@@ -1,6 +1,5 @@
 <HTML>
   <HEAD>
-    <title>school schedule</title>
   </HEAD>
   <body>
     <h1><span>My School Schedule</span></h1>
