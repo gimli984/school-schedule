@@ -5,46 +5,60 @@
     <h1><span>My School Schedule</span></h1>
     <table>
       <tr>
-        <th>Milan</th>
-        <th>Lova</th>
-        <th>Viki</th>
-        <th>Lova</th>
+        <th>DAY</th>
+        <th>MON</th>
+        <th>TUE</th>
+        <th>WEN</th>
+        <th>THU</th>
+        <th>FRI</th>
       </tr>
       <tr>
-        <td>Placa</td>
-        <td class="selected">3500</td>
+        <td>8:00-8:45</td>
+        <td class="selected"></td>
         <td></td>
-        <td class="selected">6800</td>
+        <td class="selected"></td>
+        <td></td>
+        <td></td>
       </tr>
       <tr>
-        <td>stan</td>
-        <td class="selected">1800</td>
+        <td>8:50-9:35</td>
+        <td class="selected"></td>
         <td></td>
-        <td class="selected">hrana</td>
+        <td class="selected"></td>
+        <td></td>
+        <td></td>
       </tr>
       <tr>
-        <td>Internet</td>
-        <td class="selected">110</td>
+        <td>9:50-10:35</td>
+        <td class="selected"></td>
         <td></td>
-        <td class="selected">0</td>
+        <td class="selected"></td>
+        <td></td>
+        <td></td>
       </tr>
       <tr>
-        <td>Elena</td>
-        <td class="selected">500</td>
+        <td>10:40-11:25</td>
+        <td class="selected"></td>
         <td></td>
-        <td class="selected">sve ostalo</td>
+        <td class="selected"></td>
+        <td></td>
+        <td></td>
       </tr>
       <tr>
-         <td>Osiguranje</td>
-        <td class="selected">140</td>
+         <td>11:30-12:15</td>
+        <td class="selected"></td>
         <td></td>
-        <td class="selected">0</td>
+        <td class="selected"></td>
+        <td></td>
+        <td></td>
       </tr>
       <tr>
-        <td>Auto</td>
-        <td class="selected">280</td>
+        <td>12:20-13:05</td>
+        <td class="selected"></td>
         <td></td>
-        <td class="selected">500</td>
+        <td class="selected"></td>
+        <td></td>
+        <td></td>
       </tr>
     </table>
   </body>
